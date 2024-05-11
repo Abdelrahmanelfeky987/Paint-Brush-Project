@@ -33,6 +33,6 @@ Paint Brush is an Applet-based application programmed with Java, utilizing Objec
 - Lets the user undo the previous action(s).
 
 ## To Run
-1. Download `PaintBrush.java` and `PaintBrush.html`.
-2. Compile using `javac PaintBrush.java`.
-3. Run using `appletviewer PaintBrush.html`.
+1. Download `PaintApp.java` and `PaintApp.html`.
+2. Compile using `javac PaintApp.java`.
+3. Run using `appletviewer PaintApp.html`.
