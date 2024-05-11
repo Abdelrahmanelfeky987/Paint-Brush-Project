@@ -1,6 +1,4 @@
 # Paint-Brush
-
-## Overview
 Paint Brush is an Applet-based application programmed with Java, utilizing Object-Oriented Programming (OOP) concepts. It allows users to draw basic shapes with different colors and line strokes, along with functionalities such as clearing drawings, erasing parts of them, and supporting Undo operations.
 
 ## Specifications
